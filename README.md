@@ -1,16 +1,27 @@
-# github-profile-summary-cards-example
+<h1 align='center'>A developer from Mexico!</h1>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+<a align="right" href="https://discord.gg/g3ZbCmShD4" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="g3ZbCmShD4" height="100" width="133" /></a>
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+-   🏳️‍🌈 Making a protafolio with `NextJS, Tailwind and Typescript!`
+-   🧠 A veteran of **Typescript/Javascript/Node.js**
+-   📢 You can send me a message at my discord: https://discord.gg/g3ZbCmShD4
+-   🦾 I like to take challenges
+-   🕹 Im a pro at shooting games
 
-```To create your profile README you need to name the repo as your username```
+<br/>
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+[![Discord Presence](https://lanyard.cnrad.dev/api/538421122920742942?borderRadius=20px&hideDiscrim=true&idleMessage=Playing%20videogames%20probably)](https://discord.com/users/538421122920742942)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<br/>
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<h3 align="left"> <strong>Languages i work with: </strong></h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyrekxd&layout=compact&theme=radical&border_color=141321)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left"> <strong>More things about me :D</strong></h3>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VyrekXD&show_icons=true&locale=en&theme=radical&border_color=141321" alt="Vyrek" />
+
+<img align="center" src="https://raw.githubusercontent.com/VyrekXD/VyrekXD/master/profile-summary-card-output/radical/0-profile-details.svg" alt="Vyrek"/>
+
+<img align="center" src="https://raw.githubusercontent.com/VyrekXD/VyrekXD/master/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Vyrek"/>
