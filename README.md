@@ -6,7 +6,7 @@
 -   🧠 A veteran of **Typescript/Javascript/Node.js**
 -   📢 You can send me a message at my discord: https://discord.gg/g3ZbCmShD4
 -   🦾 I like to take challenges
--   🕹 Im a pro at shooting games
+-   🕹 Im very good at shooting games
 
 <br/>
 
