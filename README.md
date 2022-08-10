@@ -2,7 +2,7 @@
 
 <a align="right" href="https://discord.gg/g3ZbCmShD4" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="g3ZbCmShD4" height="100" width="133" /></a>
 
--   🏳️‍🌈 Making a protafolio with `NextJS, Tailwind and Typescript!`
+-   🏳️‍🌈 Making a portafolio with `NextJS, Tailwind and Typescript!`
 -   🧠 A veteran of **Typescript/Javascript/Node.js**
 -   📢 You can send me a message at my discord: https://discord.gg/g3ZbCmShD4
 -   🦾 I like to take challenges
