@@ -10,10 +10,6 @@
 
 <br/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/538421122920742942?borderRadius=20px&hideDiscrim=true&idleMessage=Playing%20videogames%20probably)](https://discord.com/users/538421122920742942)
-
-<br/>
-
 <h3 align="left"> <strong>Languages i work with: </strong></h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyrekxd&layout=compact&theme=radical&border_color=141321)](https://github.com/anuraghazra/github-readme-stats)
