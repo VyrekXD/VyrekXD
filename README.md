@@ -31,9 +31,9 @@
         <a href="https://github.com/milosworks/"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" href="https://github.com/milosworks/" /></a>
     </div>
     <div style="max-width: 40%; text-align: right;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=milosworks&theme=swift&show_icons=true">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=milosworks&theme=swift&show_icons=true">
         <br>
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milosworks&theme=swift&layout=compact" style="margin-top: 10px;">
+        <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milosworks&theme=swift&layout=compact" style="margin-top: 10px;">
     </div>
 </div>
 
