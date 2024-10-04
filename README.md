@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1695321845/69371/sealbop.gif?1695321845" width="30" > Hi! I'm Milo a developer from mexico!</h1>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=milosworks&theme=swift&show_icons=true">
+<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milosworks&theme=swift&layout=compact">
 
 -   <img src="https://emojis.slackmojis.com/emojis/images/1709364039/89804/brainq.png?1709364039" width="20"> Studying to be a doctor and a self-taught developer as a hobby.
 -   <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="20"> Currently working on a Minecraft mod, my portfolio, and a secret project.
@@ -27,8 +28,6 @@
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
-
-<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milosworks&theme=swift&layout=compact">
 
 <h3>Conact me! / Contactame!</h3>
 <a href="https://discord.gg/dVPqq2U4xy"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" href="https://discord.gg/dVPqq2U4xy" /></a>
