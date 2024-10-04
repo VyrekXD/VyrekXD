@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1695321845/69371/sealbop.gif?1695321845" width="30" > Hi! I'm Milo a developer from mexico!</h1>
 
-<picture width="50%">
+<picture>
     <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=milosworks&theme=swift&show_icons=true">
-    <img width="39%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milosworks&theme=swift&layout=compact">
 </picture>
 
 -   <img src="https://emojis.slackmojis.com/emojis/images/1709364039/89804/brainq.png?1709364039" width="20"> Studying to be a doctor and a self-taught developer as a hobby.
@@ -23,7 +22,9 @@
 <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-<br/><br/>
+<br/>
+<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milosworks&theme=swift&layout=compact">
+<br/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -33,4 +34,4 @@
 <a href="https://discord.gg/dVPqq2U4xy"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" href="https://discord.gg/dVPqq2U4xy" /></a>
 <a href="https://github.com/milosworks/"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" href="https://github.com/milosworks/" /></a>
 
-<img alt="Views" align="center" src="https://hits.dwyl.com/milosworks/milosworks.svg?style=flat">
+<p align="center"><img alt="Views" align="center" src="https://hits.dwyl.com/milosworks/milosworks.svg?style=flat"></p>
