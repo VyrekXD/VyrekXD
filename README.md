@@ -1,23 +1,42 @@
-<h1 align='center'>A developer from Mexico!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1695321845/69371/sealbop.gif?1695321845" width="30" > Hi! I'm Milo a developer from mexico!</h1>
 
-<a align="right" href="https://discord.gg/g3ZbCmShD4" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="g3ZbCmShD4" height="100" width="133" /></a>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="max-width: 50%;">
+        <ul>
+            <li><img src="https://emojis.slackmojis.com/emojis/images/1709364039/89804/brainq.png?1709364039" width="20"> Studying to be a doctor and a self-taught developer as a hobby.</li>
+            <li><img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width="20"> Currently working on a Minecraft mod, my portfolio, and a secret project.</li>
+            <li><img src="https://emojis.slackmojis.com/emojis/images/1643514881/8944/vscode.png?1643514881" width="20"> <a href="https://code.visualstudio.com/">VSCode</a> / <a href="https://www.jetbrains.com/idea/">IntelliJ</a> / <a href="https://www.jetbrains.com/go/">GoLand</a> / <a href="https://www.google.com/chrome/">Chrome</a> / <a href="https://music.youtube.com/playlist?list=PLWYcTIR5U5czqwy0xXX2R_cb31eDG01Dy&si=Hz0Sd0KwOv4kp2L2">YoutubeMusic</a></li>
+            <li><img src="https://emojis.slackmojis.com/emojis/images/1703376648/83846/monke_gamingq.png?1703376648" width="20"> I play games like overwatch, minecraft, valorant and more.</li>
+        </ul>
+        <h3>I have knowledge in:</h3>
+        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EFD81D?style=flat-square&logo=javascript&logoColor=white&" />
+        <img alt="GoLang" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-A32CE8?style=flat-square&logo=kotlin&logoColor=white" />
+        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <br/><br/>
+        <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+        <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+        <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+        <br/><br/>
+        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
+        <h3>Conact me! / Contactame!</h3>
+        <a href="https://discord.gg/dVPqq2U4xy"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" href="https://discord.gg/dVPqq2U4xy" /></a>
+        <a href="https://github.com/milosworks/"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" href="https://github.com/milosworks/" /></a>
+    </div>
+    <div style="max-width: 40%; text-align: right;">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=milosworks&theme=swift&show_icons=true">
+        <br>
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milosworks&theme=swift&layout=compact" style="margin-top: 10px;">
+    </div>
+</div>
 
--   🏳️‍🌈 Making a portafolio with `NextJS, Tailwind and Typescript!`
--   🧠 A veteran of **Typescript/Javascript/Node.js**
--   📢 You can send me a message at my discord: https://discord.gg/g3ZbCmShD4
--   🦾 I like to take challenges
--   🕹 Im very good at shooting games
-
-<br/>
-
-<h3 align="left"> <strong>Languages i work with: </strong></h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyrekxd&layout=compact&theme=radical&border_color=141321)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="left"> <strong>More things about me :D</strong></h3>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VyrekXD&show_icons=true&locale=en&theme=radical&border_color=141321" alt="Vyrek" />
-
-<img align="center" src="https://raw.githubusercontent.com/VyrekXD/VyrekXD/master/profile-summary-card-output/radical/0-profile-details.svg" alt="Vyrek"/>
-
-<img align="center" src="https://raw.githubusercontent.com/VyrekXD/VyrekXD/master/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Vyrek"/>
+<div align="center">
+    <img alt="Views" src="https://hits.dwyl.com/milosworks/milosworks.svg?style=flat">
+</div>
